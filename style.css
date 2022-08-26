@@ -101,7 +101,8 @@
 
      .img-info{
     width: 50%;
-    float: right;
+    float: right; 
+}
     
     
     .img-info h2{
@@ -122,7 +123,10 @@
     line-height: 24px;
     font-family: 'Tajawal', sans-serif;
     font-size: large;
-    
+
+    .img-dragon{
+    padding-top: 20px;
+    border-radius: 20px;
 }
 }
 
